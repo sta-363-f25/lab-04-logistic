@@ -1,10 +1,9 @@
 ---
-title: "Lab 03 - Logistic Regression"
+title: "Lab 04 - Logistic Regression"
 author: "Lucy D'Agostino McGowan"
 format: 
   html:
     self-contained: true
-editor: visual
 ---
 
 ### Load packages
